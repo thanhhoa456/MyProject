@@ -1,3 +1,11 @@
 docker exec -it redmine bash
 
 git clone https://github.com/thanhhoa456/MyProject.git /home/user/repos/demo
+
+cd  /home/user/repos/demo
+
+git pull
+
+path:/home/user/repos/demo/.git
+
+Rename 'demo' to your folder 

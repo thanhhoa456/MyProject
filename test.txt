@@ -1,0 +1,3 @@
+docker exec -it redmine bash
+
+git clone https://github.com/thanhhoa456/MyProject.git /home/user/repos/demo

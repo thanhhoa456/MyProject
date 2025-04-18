@@ -1,4 +1,4 @@
-docker exec -it redmine bash
+docker exec -it suspicious_hugle bash
 
 git clone https://github.com/thanhhoa456/MyProject.git /home/user/repos/demo
 

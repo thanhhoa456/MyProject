@@ -10,4 +10,3 @@ path:/home/user/repos/demo/.git
 
 Rename 'demo' to your folder 
 
-abc
